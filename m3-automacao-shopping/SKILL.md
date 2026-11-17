@@ -32,6 +32,7 @@ A página do produto traz nome, preço, disponibilidade, especificações e dado
 Produto sob consulta não tem preço: a página não mostra valor e não traz JSON-LD `Product`. Nesse caso não há preço a informar — não deduza um.
 
 - **Frete e prazo:** informe o CEP no cálculo de frete da página do produto (campo de CEP + botão "Consultar"). Se não conseguir interagir com a página, não estime frete: envie o link do produto e peça ao usuário para calcular lá.
+- **Teste do produto:** a página do produto informa uma condição de teste de 7 dias ("Teste com tranquilidade"). Confirme na página antes de citá-la ao usuário; não descreva regras que a página não mostre.
 - **Produto "sob consulta" ou compra para empresa/em quantidade:** não invente preço. A página do produto oferece "Solicitar proposta" (orçamento por e-mail) e "Falar com consultor B2B" (WhatsApp); indique esses caminhos ou a página de contato.
 
 ## Ajudar a escolher
